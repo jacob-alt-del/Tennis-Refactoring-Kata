@@ -81,5 +81,4 @@ class TestTennis(unittest.TestCase):
             self.assertEqual(score, game.score())
  
 if __name__ == "__main__":
-    unittest.main() 
-        
+    unittest.main()

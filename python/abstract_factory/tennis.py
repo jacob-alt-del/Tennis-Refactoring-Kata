@@ -1,4 +1,4 @@
-from factory import *
+from abstract_factory.factory import *
 
 class TennisGame1:
 

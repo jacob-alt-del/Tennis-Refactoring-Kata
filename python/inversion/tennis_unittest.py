@@ -3,7 +3,7 @@
 import unittest
 
 from tennis import TennisGame1, TennisGame2, TennisGame3
-from factory import *
+from abstract_factory.factory import *
 
 test_cases = [
     (0, 0, "Love-All", 'player1', 'player2'),
